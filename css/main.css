@@ -58,6 +58,9 @@ a:active {
   color: #3f1622;
 }
 
+a {
+  text-decoration: none;
+}
 img {
   width: 100%;
 }
