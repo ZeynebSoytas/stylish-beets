@@ -29,7 +29,7 @@ nav ol {
   font-family: 'PT Sans', sans-serif;
   list-style-type: none;
 }
-
-ol > li {
-  text-decoration: none;
+img {
+  width: auto;
+  height: auto;
 }
