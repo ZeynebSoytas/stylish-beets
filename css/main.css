@@ -61,3 +61,8 @@ a:active {
 img {
   width: 100%;
 }
+
+figure > figcaption {
+  font-family: "PT Sans", serif;
+  font-style: normal;
+}
