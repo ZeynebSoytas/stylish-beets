@@ -18,5 +18,8 @@ header {
 nav ol {
   font-size: 1.125rem;
   font-family: 'PT Sans', sans-serif;
+}
+
+nav li {
   color: #8f2440;
 }
