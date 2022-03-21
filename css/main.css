@@ -10,7 +10,11 @@ body {
   background-color: #c9b5ab;
 }
 
-header {
+header, footer {
+  font-size: 1.5rem;
+}
+
+h1 {
   font-size: 1.5rem;
   color: #3f1622;
 }
@@ -18,8 +22,4 @@ header {
 nav ol {
   font-size: 1.125rem;
   font-family: 'PT Sans', sans-serif;
-}
-
-nav li {
-  color: #8f2440;
 }
