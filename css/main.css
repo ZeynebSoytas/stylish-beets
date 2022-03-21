@@ -19,6 +19,10 @@ h1 {
   font-family: 'PT Sans', sans-serif;
   color: #3f1622;
 }
+h1 > em {
+  font-family: 'PT Sans', sans-serif;
+  font-style: italic;
+}
 
 nav ol {
   font-size: 1.125rem;
