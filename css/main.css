@@ -64,4 +64,5 @@ img {
 
 figure > figcaption {
   font-family: "PT Serif", serif;
+  font-style: italic;
 }
