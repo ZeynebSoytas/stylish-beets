@@ -28,6 +28,5 @@ nav ol {
   font-size: 1.125rem;
   font-family: 'PT Sans', sans-serif;
   list-style-type: none;
-  text-decoration: not underline
-  color: #8f2440;
+  text-decoration: none;
 }
