@@ -38,13 +38,13 @@ nav ol > li {
 }
 
 a:link {
-  text-decoration: none;
-  color: #8f2440;
+  text-decoration: underline;
+  color: #3f1622;
 }
 
 a:visited {
-  text-decoration: underline;
-  color: #3f1622;
+  text-decoration: none;
+  color: #8f2440;
 }
 
 a:hover {
