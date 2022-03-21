@@ -10,6 +10,7 @@ body {
   background-color: #c9b5ab;
 }
 
-header, footer {
+header {
   font-size: 1.5rem;
+  color: #3f1622;
 }
