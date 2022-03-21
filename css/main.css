@@ -32,12 +32,12 @@ nav ol {
 }
 
 ol > li {
-  color: #8f2440;
-  text-decoration: none;
+
 }
 
 nav a:hover {
-
+  text-decoration: underline;
+  color: #3f1622;
 }
 
 img {
