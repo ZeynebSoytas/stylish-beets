@@ -31,10 +31,11 @@ nav ol {
   list-style-type: none;
 }
 
-img {
-  width: 100%
+nav a:hover {
+  color: #8f2440;
+  text-decoration: underline;
 }
 
-div.a {
-  line-height: 1.5;
+img {
+  width: 100%
 }
