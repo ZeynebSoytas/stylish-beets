@@ -28,5 +28,8 @@ nav ol {
   font-size: 1.125rem;
   font-family: 'PT Sans', sans-serif;
   list-style-type: none;
+}
+
+ol > li {
   text-decoration: none;
 }
