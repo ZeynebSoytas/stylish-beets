@@ -32,6 +32,9 @@ nav ol {
 }
 
 img {
-  width: auto;
-  height: auto;
+
+}
+
+div.a {
+  line-height: 1.5;
 }
